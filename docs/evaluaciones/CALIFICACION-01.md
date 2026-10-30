@@ -70,7 +70,7 @@
 - Escribió "Juan Correa" en lugar de su nombre completo.
 
 ## ¿El código funciona?
-Sí. Los dos algoritmos ordenan bien en mis pruebas, los scripts de las Partes 3 y 4 corren sin errores y generan las gráficas.
+Sí. Los dos algoritmos ordenan bien, los scripts de las Partes 3 y 4 corren sin errores y generan las gráficas.
 
 ## Para el próximo laboratorio
 - Suba el trabajo a la rama `main` y use exactamente el nombre de carpeta acordado.
